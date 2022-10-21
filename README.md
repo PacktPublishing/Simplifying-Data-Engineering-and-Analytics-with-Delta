@@ -66,3 +66,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Anindita Mahapatra**
 is a lead solutions architect at Databricks in the data and AI space helping clients across all industry verticals reap value from their data infrastructure investments. She teaches a data engineering and analytics course at Harvard University as part of their extension school program. She has extensive big data and Hadoop consulting experience from Think Big/Teradata, prior to which she was managing the development of algorithmic app discovery and promotion for both Nokia and Microsoft stores. She holds a master’s degree in liberal arts and management from Harvard Extension School, a master’s in computer science from Boston University, and a bachelor’s in computer science from BITS Pilani, India.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801814867">https://packt.link/free-ebook/9781801814867 </a> </p>
