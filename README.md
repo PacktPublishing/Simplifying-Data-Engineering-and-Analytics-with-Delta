@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801814867)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Simplifying Data Engineering and Analytics with Delta
 
 <a href="https://www.packtpub.com/product/simplifying-data-engineering-and-analytics-with-delta/9781801814867?utm_source=github&utm_medium=repository&utm_campaign=9781801814867"><img src="https://static.packt-cdn.com/products/9781801814867/cover/smaller" alt="Simplifying Data Engineering and Analytics with Delta" height="256px" align="right"></a>
